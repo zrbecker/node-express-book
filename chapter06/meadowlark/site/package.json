@@ -1,0 +1,27 @@
+{
+  "name": "meadowlark-travel-website",
+  "version": "1.0.0",
+  "description": "Travel website example from node and express development book",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express3-handlebars": "^0.5.2"
+  },
+  "repository": "https://github.com/zrbecker/node-express-book",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-exec": "^2.0.0",
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "zombie": "^5.0.5"
+  }
+}
